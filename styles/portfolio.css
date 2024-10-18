@@ -22,7 +22,7 @@
     text-align: center;
 }
 .second-block-header{
-    color: blueviolet;
+    color: red;
 }
 .third-block{
     display: flex;
@@ -70,6 +70,7 @@
     padding-top: 30px;
 }
 .fifth-block{
+    margin-top: 50px;
     display: flex;
     justify-content: space-between;
 }
@@ -81,4 +82,14 @@
 }
 .fifth-third{
     padding-left: 30px;
+}
+.sixth-block{
+    margin-top: 50px;
+    text-align: center;
+}
+.sixth-block-title{
+    color: #070211;
+}
+.sixth-block-paragraph{
+   color: gray; 
 }
