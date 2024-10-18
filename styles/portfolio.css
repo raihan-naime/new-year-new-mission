@@ -1,0 +1,45 @@
+*{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main{
+   margin: 10px 25px 20px;
+}
+.first-block{
+    background-image: url(../resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+    margin: 20px;
+}
+.title{
+    color: white;
+    text-align: center;
+    padding: 50px 60px 40px;
+    
+}
+.second-block{
+    margin: 20px 100px 100px 100px;
+    text-align: center;
+}
+.second-block-header{
+    color: blueviolet;
+}
+.third-block{
+    display: flex;
+    justify-content: space-around;
+    background-image: url(../resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.third-block-text{
+    color: white;
+    text-align: left;
+    padding-left: 50px;
+}
+.join-btn{
+    color: white;
+    background-color: transparent;
+    border: none;
+    font-size: larger;
+}
