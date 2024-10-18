@@ -69,3 +69,16 @@
     padding-bottom: 50px;
     padding-top: 30px;
 }
+.fifth-block{
+    display: flex;
+    justify-content: space-between;
+}
+.fifth-title{
+    color: #070211;
+}
+.fifth-first{
+    padding-right: 30px;
+}
+.fifth-third{
+    padding-left: 30px;
+}
