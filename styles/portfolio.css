@@ -93,3 +93,15 @@
 .sixth-block-paragraph{
    color: gray; 
 }
+.seventh-block{
+    margin-top: 200px;
+}
+.seventh-block-paragraph{
+    padding-right: 200px;
+}
+.seventh-block-main{
+    display: block;
+}
+.seventh-block-img:hover {
+    background-color: violet;
+}
