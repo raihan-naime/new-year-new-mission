@@ -37,9 +37,35 @@
     text-align: left;
     padding-left: 50px;
 }
+.third-block-first{
+    padding-top: 65px;
+}
 .join-btn{
     color: white;
     background-color: transparent;
     border: none;
     font-size: larger;
+}
+.fourth-block{
+    text-align: center;
+    margin-top: 50px;
+    background-color: linen;
+}
+.fourth-block-title{
+    text-align: center;
+    padding-top: 50px;
+}
+.fourth-block-indentification{
+    color: #ff0000;
+}
+.fourth-block-btn{
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 22px;
+}
+.fourth-btn{
+    padding-bottom: 50px;
+    padding-top: 30px;
 }
